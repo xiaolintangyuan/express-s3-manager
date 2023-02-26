@@ -1,0 +1,5 @@
+// Ignore these
+.env
+test.json
+
+/node_modules
