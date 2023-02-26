@@ -48,7 +48,7 @@ The following environment variables should be set in your project for this middl
 ## Options
 | Variable name  | Description | Required |
 | ------------- | ------------- | ------------- |
-| bucket  | S3 Bucket Name  | No |
+| bucket  | S3 Bucket Name  | Yes |
 
 ## License
 Copyright 2023 XIAOLINTANGYUAN
